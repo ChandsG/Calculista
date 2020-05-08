@@ -1,0 +1,122 @@
+inherited FormP_LgXhdpiPh: TFormP_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited Rectangle1: TRectangle
+    Size.Width = 450.000000000000000000
+    Size.Height = 695.000000000000000000
+    inherited Text1: TText
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+  end
+  inherited Rectangle2: TRectangle
+    Opacity = 0.000000000000000000
+    Visible = False
+    inherited Rectangle3: TRectangle
+      inherited Text15: TText
+        Position.X = -1.000000000000000000
+      end
+      inherited Text16: TText
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+      end
+      inherited Text17: TText
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+      end
+      inherited Text18: TText
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+      end
+      inherited Text19: TText
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+      end
+      inherited Line4: TLine
+        Position.Y = -1.000000000000000000
+      end
+    end
+    inherited Rectangle4: TRectangle
+      inherited Edit1: TEdit
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+      end
+    end
+    inherited Rectangle5: TRectangle
+      inherited Button7: TButton
+        Margins.Bottom = 57.000000000000000000
+      end
+      inherited Button11: TButton
+        TextSettings.FontColorForState.Pressed = claTomato
+      end
+    end
+  end
+  inherited Rectangle6: TRectangle
+    inherited Text6: TText
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited GroupBox1: TGroupBox
+      Enabled = False
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+      inherited RadioButton4: TRadioButton
+        Enabled = False
+      end
+    end
+  end
+  inherited Rectangle9: TRectangle
+    Fill.Kind = Gradient
+    Fill.Gradient.Points = <
+      item
+        Color = xFF073C6F
+        Offset = 0.260869562625885000
+      end
+      item
+        Color = xFF658CBD
+        Offset = 0.652173936367034900
+      end
+      item
+        Color = xFF98AFC8
+        Offset = 0.822981357574462900
+      end
+      item
+        Color = xFFECF0F1
+        Offset = 0.996894419193267800
+      end
+      item
+        Color = xFFEEF2F3
+        Offset = 1.000000000000000000
+      end>
+    Fill.Gradient.StartPosition.Y = 1.000000000000000000
+    Fill.Gradient.StopPosition.Y = 0.000000000000000000
+    Stroke.Thickness = 5.000000000000000000
+    inherited Text11: TText
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited Rectangle10: TRectangle
+      Stroke.Kind = None
+    end
+  end
+  inherited Rectangle7: TRectangle
+    inherited Text7: TText
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited StringGrid1: TStringGrid
+      Anchors = [akLeft, akTop, akRight, akBottom]
+      Opacity = 0.000000000000000000
+      Viewport.Width = 430.000000000000000000
+      Viewport.Height = 464.000000000000000000
+      inherited StringColumn1: TStringColumn
+        Size.Width = 177.000000000000000000
+      end
+      inherited StringColumn2: TStringColumn
+        Size.Width = 85.000000000000000000
+      end
+      inherited StringColumn3: TStringColumn
+        Size.Width = 155.000000000000000000
+      end
+    end
+  end
+  inherited Rectangle11: TRectangle
+    inherited Button18: TButton
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited Edit4: TEdit
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+  end
+end

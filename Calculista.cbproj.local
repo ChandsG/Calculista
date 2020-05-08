@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/02/10 13:38:42.000.809,=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/02/10 13:38:44.000.862,=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/02/10 13:39:01.000.736,C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\Unit1.cpp</Transaction>
+    <Transaction>2015/02/10 13:39:01.000.736,C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\Unit1.fmx</Transaction>
+    <Transaction>2015/02/10 13:39:01.000.736,C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\Unit1.h</Transaction>
+    <Transaction>2015/02/10 13:39:15.000.146,C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\CalculistaPCH1.h</Transaction>
+    <Transaction>2015/02/10 13:39:42.000.686,C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\Calculista.cbproj</Transaction>
+    <Transaction>2015/02/10 13:42:25.000.784,C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\Unit1.cpp=</Transaction>
+    <Transaction>2015/02/10 13:43:31.000.480,=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\funcoesjugador.cpp</Transaction>
+    <Transaction>2015/02/10 13:43:31.000.450,=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\funcoes.cpp</Transaction>
+    <Transaction>2015/02/10 13:43:31.000.496,=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\registo.cpp</Transaction>
+    <Transaction>2015/02/10 13:48:43.000.037,=C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\Unit1.cpp</Transaction>
+    <Transaction>2015/02/10 13:51:31.000.781,C:\Users\Nick\Documents\Embarcadero\Studio\Projects\Calculista\registo.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
